@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a0ea8fc0-de55-4a49-90a6-eff483379bc7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/BinaryLinkedNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PostfixCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinaryLinkedNode.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +74,7 @@
       <updated>1677231474512</updated>
       <workItem from="1677231474776" duration="565000" />
       <workItem from="1677232061639" duration="369000" />
+      <workItem from="1677874880748" duration="336000" />
     </task>
     <servers />
   </component>
